@@ -1,0 +1,4 @@
+matplotlib
+keyboard
+numpy
+ctypes
